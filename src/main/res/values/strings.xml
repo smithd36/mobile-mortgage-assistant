@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">mortgage_calc</string>
+    <string name="welcome">Mortgage Calculator</string>
+
+    <string name="calculate">Calculate My Mortgage</string>
+    <string name="recalculate">Calculate Another Mortgage Payment</string>
+    <string name="next">Next</string>
+    <string name="looks_good">Looks Good!</string>
+    <string name="years"> years</string>
+    <string name="percent">%</string>
+
+    <string name="prompt_principle">Enter Principle Amount</string>
+    <string name="prompt_interest_rate">Enter Interest Rate (%)</string>
+    <string name="prompt_mortgage_period">Enter Mortgage Period (Years)</string>
+
+    <string name="monthly_payment">Your Monthly Payment Will Be: $</string>
+
+    <string name="message_principle">Loan Amount (Principle): $</string>
+    <string name="message_interest">Your Interest Rate: </string>
+    <string name="message_mortgage">Your Mortgage Period (Years): </string>
+    <string name="message_result">Monthly Payment: $</string>
+
+    <string name="mortgage_overview">Your Mortgage Overview</string>
+
+    <string name="invalid_input_error">Error: Invalid input or calculation.</string>
+    <string name="empty_input_error">Please fill in the field.</string>
+</resources>
